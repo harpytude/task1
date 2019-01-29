@@ -11,3 +11,4 @@ header
 footerpage
 admin page
 contact page 
+what about 404 page and Templates 
